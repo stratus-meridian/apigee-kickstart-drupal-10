@@ -1,6 +1,0 @@
-name: autozone-dev-portal
-recipe: pantheon
-config:
-  framework: drupal8
-  site: autozone-dev-portal
-  id: 069fd0c2-e42a-4877-8c13-8251c140531d
